@@ -56,12 +56,10 @@ suraj = {
 
 ### 📊 Account Metrics Dashboard
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajgoeswithds&show_icons=true&theme=tokyonight&hide_border=true&ignore_cache=1)](https://github.com/surajgoeswithds)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajgoeswithds&layout=compact&theme=tokyonight&hide_border=true&ignore_cache=1)](https://github.com/surajgoeswithds)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=surajgoeswithds&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=surajgoeswithds&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+</p>
 
 ---
 
