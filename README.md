@@ -58,7 +58,7 @@ suraj = {
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=surajgoeswithds&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=surajgoeswithds&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=surajgoeswithds&layout=compact&theme=tokyonight&hide_border=true&card_width=430" width="400" alt="Top Languages" />
 </p>
 
 ---
