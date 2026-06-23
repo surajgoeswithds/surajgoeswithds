@@ -39,10 +39,17 @@ suraj = {
 ### 🛠️ Tech Stack
 
 <p align="center">
-<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark&perline=5" alt="Tech Stack" /></a>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,anaconda&theme=dark&perline=6" alt="Tech Stack" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 ---
+
 
 ### 🔥 GitHub Streak
 
