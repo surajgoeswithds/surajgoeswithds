@@ -9,22 +9,24 @@
 
 ### 👤 About Me
 
-<img align="right" src="https://camo.githubusercontent.com/ec95521bd589b3aeeb4af239295c4818d31caa06c0f0f2b865a5a8bd75c190e6/68747470733a2f2f696d617274696375732e6f72672f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72742e676966" width="380" alt="Data Processing Visualization" />
+<img align="right" src="coding.gif" width="335" alt="Data Processing Visualization" />
 
 ```python
 suraj = {
-    "name"      : "Suraj Sahoo",
-    "role"      : "Aspiring Data Scientist",
-    "skills"    : ["Python", "MySQL", "Git"],
-    "currently" : "Learning Data Science & ML",
-    "goal"      : "Turn data into decisions 📊",
-    "available" : True
+    "name": "Suraj Sahoo",
+    "role": "Aspiring Data Scientist",
+    "skills": ["Python", "MySQL", "Git"],
+    "tech_stack": ["pandas", "NumPy", "matplotlib", "seaborn"],
+    "currently": "Learning Data Science & ML",
+    "goal": "Turn data into decisions 📊",
+    "open_to": ["Open Source Collaboration", "Data Analytics Projects"],
+    "available": True
 }
 ```
 
 <br/><br/>
 
----
+<hr width="66%" align="left" />
 
 ### 🔗 Connect with Me
 
