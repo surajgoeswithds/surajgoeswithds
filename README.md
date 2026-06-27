@@ -9,7 +9,7 @@
 
 ### 👤 About Me
 
-<img align="right" src="coding.gif" width="335" alt="Data Processing Visualization" />
+<img align="right" src="coding.gif" width="280" height="280" alt="Data Processing Visualization" />
 
 ```python
 suraj = {
@@ -26,7 +26,7 @@ suraj = {
 
 <br/><br/>
 
-<hr width="66%" align="left" />
+<hr width="68%" align="left" />
 
 ### 🔗 Connect with Me
 
