@@ -26,7 +26,7 @@ suraj = {
 
 <br/><br/>
 
-<hr width="68%" align="left" />
+<hr width="66%" align="left" />
 
 ### 🔗 Connect with Me
 
